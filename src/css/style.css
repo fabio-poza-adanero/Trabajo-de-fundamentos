@@ -178,7 +178,7 @@ table tr:nth-child(even) {
 
 /* Imágenes */
 img {
-    max-width: 100%;
+    max-width: 20%;
     height: auto;
     border-radius: 5px;
 }
